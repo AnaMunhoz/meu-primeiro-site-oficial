@@ -1,0 +1,93 @@
+html, body {
+    margin: 0%;
+    background: url("imagem/fundo.jpg");
+    background-attachment: fixed ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-size: 100%;
+    position: relative;
+    background-position: relative;
+    height: 100%;
+    width: 100%;
+    background-position: 100%;
+
+}
+#primeira-img {
+    background: url("imagem/img.jpeg");
+    width: 99,5%;
+    height: 97%;
+    background-position: center;
+    border: solid 10px black;
+}
+#titulo-capa {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 80px;
+}
+.video1 {
+    float: left;
+    padding-top: 2%;
+    width: 45%;
+    position: relative;
+}
+#titulo {
+    float: left;
+    font-size: 30px;
+    color: white;
+    text-align: left center;
+    padding-left: 16%;
+}
+#texto1 {
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 48%;
+    font-size: 20px;
+    text-align: justify;
+}
+#pedacinho {
+    padding-left: 3%;
+    padding-right: 5%;
+    font-size: 20px;
+    text-align: justify;
+   
+}
+#titulo2 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+#texto2 {
+    padding-left: 3%;
+    padding-right: 7%;
+    font-size: 20px;
+    text-align: justify;
+}
+#tartaruga {
+    height: 60%;
+    width: 70%;
+    padding-left: 0%; 
+    
+}
+#titulo3 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+#textofinal {
+    padding-left: 3%;
+    font-size: 20px;
+    text-align: justify;
+    float: left;
+}
+#pimpolho {
+    padding-left: 3%;
+    font-size: 20px;
+}
+#peixe {
+    width: 45%;
+    height: 60%;
+    float: left;
+    padding-left: 5%
+}
